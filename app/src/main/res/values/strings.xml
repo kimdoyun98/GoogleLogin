@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleLoginGuide</string>
+    <string name="title_activity_google_login_guide">GoogleLoginGuideActivity</string>
+</resources>
